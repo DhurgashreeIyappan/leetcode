@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2079-watering-plants](https://github.com/DhurgashreeIyappan/leetcode/tree/master/2079-watering-plants) |
 | [3379-transformed-array](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3379-transformed-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -101,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
