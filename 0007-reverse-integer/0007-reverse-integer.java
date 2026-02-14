@@ -1,7 +1,7 @@
 class Solution {
     public int reverse(int x) {
         if(x>=0 && x<=9) return x;
-        int rev=0;
+        long rev=0;
         while(x!=0){
             int last=x%10;
             rev=rev*10+last;
@@ -10,6 +10,6 @@ class Solution {
                 return 0;
             }
         }
-        return rev;
+        return (int)rev;
     }
 }
