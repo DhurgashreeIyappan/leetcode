@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0067-add-binary) |
 | [2079-watering-plants](https://github.com/DhurgashreeIyappan/leetcode/tree/master/2079-watering-plants) |
 | [3379-transformed-array](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -124,9 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
