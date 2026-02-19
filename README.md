@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
