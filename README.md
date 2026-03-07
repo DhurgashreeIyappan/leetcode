@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DhurgashreeIyappan/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0125-valid-palindrome) |
 ## Matrix
 |  |
 | ------- |
