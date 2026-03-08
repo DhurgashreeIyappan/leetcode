@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0125-valid-palindrome) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
