@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0739-daily-temperatures) |
 | [2079-watering-plants](https://github.com/DhurgashreeIyappan/leetcode/tree/master/2079-watering-plants) |
 | [3379-transformed-array](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
