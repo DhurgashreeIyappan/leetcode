@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0141-linked-list-cycle) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0347-top-k-frequent-elements) |
