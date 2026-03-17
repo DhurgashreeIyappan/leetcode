@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/DhurgashreeIyappan/leetcode/tree/master/2079-watering-plants) |
 | [3379-transformed-array](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3813-vowel-consonant-score](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [3813-vowel-consonant-score](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Matrix
 |  |
 | ------- |
