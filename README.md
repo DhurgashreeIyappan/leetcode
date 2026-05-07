@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/DhurgashreeIyappan/leetcode/tree/master/0739-daily-temperatures) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/DhurgashreeIyappan/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [2079-watering-plants](https://github.com/DhurgashreeIyappan/leetcode/tree/master/2079-watering-plants) |
 | [3379-transformed-array](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhurgashreeIyappan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
